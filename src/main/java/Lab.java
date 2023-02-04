@@ -36,12 +36,9 @@ public class Lab {
         int sum = 0;
         int i = 0;
         while (i < end) {
-            sum = sum + 1;
+            sum = sum + i;
             i++;
         }
-        
-//        code here
-
         return sum;
     }
 }
