@@ -55,3 +55,4 @@ public class WhileLoopTest {
         Assert.assertEquals(expected, actual);
     }
 }
+
